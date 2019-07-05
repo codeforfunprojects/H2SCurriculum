@@ -12,5 +12,4 @@ The curriculum used for Code for fun's Hack Highschool program.
 * Data structures, Java OOP, C piscine
 * Web development
 * Data science & ML
-
 7. AP CSP & AP Java are separate tracks from the beginning which do not have any prerequisite.
