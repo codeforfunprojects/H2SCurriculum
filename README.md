@@ -25,6 +25,8 @@ This work is licensed under a [Creative Commons Attribution-Noncommercial-ShareA
 </p>
 
 # Partners
+<p align="center">
 <a href="https://www.42.us.org/">
 <img src="https://raw.githubusercontent.com/codeforfunprojects/H2SCurriculum/master/Images/42LogoCompressed.png" alt="42 Silicon Valley" width="200"/></a>
 <a href="https://www.codeforfun.com/"><img src="https://raw.githubusercontent.com/codeforfunprojects/H2SCurriculum/master/Images/CFFLogoCompressed.png" alt="Code For Fun" width="200"/></a>
+</p>
