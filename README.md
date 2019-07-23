@@ -18,5 +18,4 @@ The curriculum used for Code for fun's Hack Highschool program.
 
 
 # Partners
-[![42 Silicon Valley](https://raw.githubusercontent.com/codeforfunprojects/H2SCurriculum/master/Images/42LogoCompressed.png)](https://www.42.us.org/)
-[![Code For Fun](https://raw.githubusercontent.com/codeforfunprojects/H2SCurriculum/master/Images/CFFLogoCompressed.png)](https://www.codeforfun.com/)
+<img src="https://raw.githubusercontent.com/codeforfunprojects/H2SCurriculum/master/Images/42LogoCompressed.png" alt="42 Silicon Valley" width="200"/><img src="https://raw.githubusercontent.com/codeforfunprojects/H2SCurriculum/master/Images/CFFLogoCompressed.png" alt="Code For Fun" width="200"/>
