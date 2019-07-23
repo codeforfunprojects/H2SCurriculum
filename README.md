@@ -1,3 +1,5 @@
+[![H2S Large Logo](https://raw.githubusercontent.com/codeforfunprojects/H2SCurriculum/master/Images/H2SLogoLargeCompressed.png)](https://www.codeforfun.com/h2s)
+
 # Curriculum
 The curriculum used for Code for fun's Hack Highschool program.
 
@@ -13,3 +15,9 @@ The curriculum used for Code for fun's Hack Highschool program.
 * [Web development](https://github.com/codeforfunprojects/H2SCurriculum/tree/master/Web)
 * Data science & ML
 7. [AP CSP](https://github.com/codeforfunprojects/H2SCurriculum/tree/master/APCSP) & AP Java are separate tracks from the beginning which do not have any prerequisite.
+
+
+# Partners
+<a href="https://www.42.us.org/">
+<img src="https://raw.githubusercontent.com/codeforfunprojects/H2SCurriculum/master/Images/42LogoCompressed.png" alt="42 Silicon Valley" width="200"/></a>
+<a href="https://www.codeforfun.com/"><img src="https://raw.githubusercontent.com/codeforfunprojects/H2SCurriculum/master/Images/CFFLogoCompressed.png" alt="Code For Fun" width="200"/></a>
