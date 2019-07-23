@@ -16,6 +16,13 @@ The curriculum used for Code for fun's Hack Highschool program.
 * Data science & ML
 7. [AP CSP](https://github.com/codeforfunprojects/H2SCurriculum/tree/master/APCSP) & AP Java are separate tracks from the beginning which do not have any prerequisite.
 
+# License
+<p align="center">
+ <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+<img src="https://raw.githubusercontent.com/codeforfunprojects/H2SCurriculum/master/Images/CreativeCommonsCompressed.png" alt="Creative Commons"/></a>
+
+This work is licensed under a [Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+</p>
 
 # Partners
 <a href="https://www.42.us.org/">
