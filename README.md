@@ -1,4 +1,4 @@
-![H2S Large Logo](https://raw.githubusercontent.com/codeforfunprojects/H2SCurriculum/master/Images/H2SLogoLargeCompressed.png)
+[![H2S Large Logo](https://raw.githubusercontent.com/codeforfunprojects/H2SCurriculum/master/Images/H2SLogoLargeCompressed.png)](https://www.codeforfun.com/h2s)
 
 # Curriculum
 The curriculum used for Code for fun's Hack Highschool program.
