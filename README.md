@@ -1,9 +1,16 @@
 [![H2S Large Logo](https://raw.githubusercontent.com/codeforfunprojects/H2SCurriculum/master/Images/H2SLogoLargeCompressed.png)](https://www.codeforfun.com/h2s)
 
 # Curriculum
-The curriculum used for Code for fun's Hack Highschool program. 
+[Hack Highschool](https://www.codeforfun.com/h2s) is a program hosted every Saturday in Fremont, CA. We hope by sharing our curriculum these materials may be of use to other educators everywhere. You example you can use these projects in the classroom in the suggested order, or simply pick and choose the material you'd like to add to your curriculum. 
 
-# Peer-to-Peer
+We love feedback! We want the best for our students, so please feel free to make suggestions using [Github's Issue tracker.](https://github.com/codeforfunprojects/H2SCurriculum/issues) 
+
+## Project Based
+Our lessons are project based, which means the students get hands on experience on real projects. Being able to create something tangible with a sense of ownership helps the students feel more motivated.
+
+Our method is to gamify these projects -- each project gives students EXP to help them level up. It gives the students and parents a sense of progress and sparks friendly competition. This is thanks to the platform provided by 42 that is used on campus.
+
+## Peer-to-Peer
 [Grading Scales](https://github.com/codeforfunprojects/H2SCurriculum/tree/master/GradingScales)
 
 Peer-to-Peer review is a great way for students to work together, practice explaining their work, and reinforce concepts. The grading scales provided can be used as worksheets for students to grade each other.
