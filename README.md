@@ -1,7 +1,7 @@
 [![H2S Large Logo](https://raw.githubusercontent.com/codeforfunprojects/H2SCurriculum/master/Images/H2SLogoLargeCompressed.png)](https://www.codeforfun.com/h2s)
 
 # Curriculum
-[Hack Highschool](https://www.codeforfun.com/h2s) is a program hosted every Saturday in Fremont, CA. We hope by sharing our curriculum these materials may be of use to other educators everywhere. You example you can use these projects in the classroom in the suggested order, or simply pick and choose the material you'd like to add to your curriculum. 
+[Hack Highschool](https://www.codeforfun.com/h2s) is a program hosted every Saturday in Fremont, CA. We hope by sharing our curriculum these materials may be of use to other educators everywhere. For example you can use these projects in the classroom in the suggested order, or simply pick and choose the material you'd like to add to your curriculum. 
 
 We love feedback! We want the best for our students, so please feel free to make suggestions using [Github's Issue tracker.](https://github.com/codeforfunprojects/H2SCurriculum/issues) 
 
