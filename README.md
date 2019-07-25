@@ -1,7 +1,14 @@
 [![H2S Large Logo](https://raw.githubusercontent.com/codeforfunprojects/H2SCurriculum/master/Images/H2SLogoLargeCompressed.png)](https://www.codeforfun.com/h2s)
 
 # Curriculum
-The curriculum used for Code for fun's Hack Highschool program.
+The curriculum used for Code for fun's Hack Highschool program. 
+
+# Peer-to-Peer
+[Grading Scales](https://github.com/codeforfunprojects/H2SCurriculum/tree/master/GradingScales)
+
+Peer-to-Peer review is a great way for students to work together, practice explaining their work, and reinforce concepts. The grading scales provided can be used as worksheets for students to grade each other.
+
+Our method is for these student-given grades to be averaged to create their score. To avoid students simply giving each other 100% we verify the scores-- via unit test scoring, mentor oversight, reminding students of the skills gained from code review, and holding them accountable if the scores given don't make sense. Teaching students to be accountable for what they learn is a large part of our culture.
 
 # Suggested Order
 
