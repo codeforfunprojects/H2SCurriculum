@@ -19,9 +19,9 @@ Our method is for these student-given grades to be averaged to create their scor
 
 # Suggested Order
 
-All students start out at the same basics of Python, then can branch out into the options they wish to work on.
-
 ![H2S Flowchart](https://raw.githubusercontent.com/codeforfunprojects/H2SCurriculum/master/Images/H2S2018ProgramPathCompressed.png)
+
+All students start out at the same basics of Python, then can branch out into the options they wish to work on.
 
 1. [Hello 42](https://github.com/codeforfunprojects/H2SCurriculum/blob/master/Misc/FirstDay.pdf)
 2. [Parseltongue](https://github.com/codeforfunprojects/H2SCurriculum/tree/master/Parseltongue)
