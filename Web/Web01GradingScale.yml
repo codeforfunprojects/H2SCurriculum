@@ -1,5 +1,5 @@
 ---
-name: Web Basics 01 - Recipe - version 5.00
+name: Web Basics 01 - Recipe - version 5.01
 comment: ''
 introduction_md: ''
 disclaimer_md: ''
@@ -37,7 +37,7 @@ sections:
     questions_skills:
     - id: 52014
       percentage: 10
-      name: Python
+      name: Web
   - id: 19839
     name: What is HTML?
     guidelines: Ask the student to explain what HTML is. Can they do it? Use google
@@ -48,7 +48,7 @@ sections:
     questions_skills:
     - id: 52015
       percentage: 5
-      name: Python
+      name: Web
   - id: 19842
     name: Applied Visual Design
     guidelines: Has the student completed all exercises in the section "Applied Visual
@@ -59,7 +59,7 @@ sections:
     questions_skills:
     - id: 52018
       percentage: 10
-      name: Python
+      name: Web
   - id: 19843
     name: Favorite Applied Visual Design
     guidelines: Ask the student what their favorite part of this section was. Did
@@ -70,7 +70,7 @@ sections:
     questions_skills:
     - id: 52019
       percentage: 5
-      name: Python
+      name: Web
   - id: 19840
     name: Basic CSS
     guidelines: Has the student completed all exercises in the section "Basic CSS"?
@@ -80,7 +80,7 @@ sections:
     questions_skills:
     - id: 52016
       percentage: 10
-      name: Python
+      name: Web
   - id: 19841
     name: What is CSS?
     guidelines: Ask the student to explain what CSS is. Can they do it? Use google
@@ -91,7 +91,7 @@ sections:
     questions_skills:
     - id: 52017
       percentage: 5
-      name: Python
+      name: Web
 - id: 5841
   scalable_id: 1889
   name: Recipe Page Website
@@ -107,7 +107,7 @@ sections:
     questions_skills:
     - id: 52020
       percentage: 10
-      name: Python
+      name: Web
   - id: 19845
     name: Necessary Files
     guidelines: Does the project include index.html and style.css?
@@ -117,7 +117,7 @@ sections:
     questions_skills:
     - id: 52021
       percentage: 5
-      name: Python
+      name: Web
   - id: 19846
     name: Github Pages
     guidelines: Does the Github repository have a README.md that includes a hyperlink to the Github Pages website?
@@ -127,7 +127,7 @@ sections:
     questions_skills:
     - id: 52022
       percentage: 5
-      name: Python
+      name: Web
   - id: 19847
     name: Explanation
     guidelines: Ask the person to explain how they got the site onto Github Pages. Can they do it?
@@ -137,7 +137,7 @@ sections:
     questions_skills:
     - id: 52023
       percentage: 5
-      name: Python
+      name: Web
   - id: 19848
     name: Ahead of the Game
     guidelines: Does the recipe page have a header?
@@ -147,7 +147,7 @@ sections:
     questions_skills:
     - id: 52024
       percentage: 5
-      name: Python
+      name: Web
   - id: 19849
     name: Picture This
     guidelines: Does the recipe page have at least one image of the food?
@@ -157,7 +157,7 @@ sections:
     questions_skills:
     - id: 52025
       percentage: 5
-      name: Python
+      name: Web
   - id: 19850
     name: Unordered List
     guidelines: Does the recipe page have an unordered list of ingredients?
@@ -167,7 +167,7 @@ sections:
     questions_skills:
     - id: 52026
       percentage: 5
-      name: Python
+      name: Web
   - id: 19851
     name: Ordered List
     guidelines: Does the recipe page have an ordered list of instructions?
@@ -177,7 +177,7 @@ sections:
     questions_skills:
     - id: 52027
       percentage: 5
-      name: Python
+      name: Web
   - id: 19852
     name: Cite your Sources
     guidelines: Does the recipe page have a link to the website it got the information from?
@@ -187,7 +187,7 @@ sections:
     questions_skills:
     - id: 52028
       percentage: 5
-      name: Python
+      name: Web
   - id: 19853
     name: Standing on your own two feet
     guidelines: Does the recipe page have a footer?
@@ -197,7 +197,7 @@ sections:
     questions_skills:
     - id: 52029
       percentage: 5
-      name: Python
+      name: Web
 
 
 
