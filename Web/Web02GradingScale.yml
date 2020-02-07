@@ -1,0 +1,160 @@
+---
+name: Web Basics 02 - Recipe - version 1.02
+comment: ''
+introduction_md: ''
+disclaimer_md: ''
+lg: en
+guidelines_md: "  To ensure this evaluation goes smoothly, please respect the following
+  set\r\n  of rules :\r\n\r\n  - Please remain courteous, polite, respectful and constructive
+  at all \r\n    times during this exchange. \r\n\r\n  - Should you notice any malfunctions
+  within the submitted project, \r\n    take a moment to discuss them and why it functioned
+  that way. This will give you a better understanding of the topic.\r\n\r\n  - Keep
+  in mind that some subjects can be interpreted differently.\r\n    If you come across
+  a situation where the student you're grading \r\n    has interpreted the subject
+  differently than you, try and judge\r\n    fairly whether their interpretation is
+  acceptable or not, and grade\r\n    them accordingly. You will both learn the most
+  by taking corrections seriously."
+evaluation_id: 1826
+is_primary: false
+correction_number: 1
+duration: 2
+manual_subscription: false
+is_external: false
+free: false
+sections:
+- id: 5840
+  scalable_id: 1889
+  name: Free Code Camp
+  description: Did the student complete all of the exercises in these sections?
+  position: 1
+  questions:
+  - id: 19838
+    name: Basic HTML and HTML5
+    guidelines: Has the student completed all exercises in the section "Responsive Web Design Principles"?
+    rating: bool
+    kind: standard
+    position: 1
+    questions_skills:
+    - id: 52014
+      percentage: 10
+      name: Web
+  - id: 19839
+    name: What is HTML?
+    guidelines: Ask the student to explain what the difference is between a static and responsive website? Can they do it?
+    rating: bool
+    kind: standard
+    position: 2
+    questions_skills:
+    - id: 52015
+      percentage: 10
+      name: Web
+  - id: 19842
+    name: Applied Visual Design
+    guidelines: Has the student completed all exercises in the section "CSS Flexbox"?
+    rating: bool
+    kind: standard
+    position: 3
+    questions_skills:
+    - id: 52018
+      percentage: 10
+      name: Web
+  - id: 19843
+    name: Favorite Applied Visual Design
+    guidelines: Ask the student to explain what a CSS Flexbox is. Can they do it? Use google
+      to check their answer if needed.
+    rating: bool
+    kind: standard
+    position: 4
+    questions_skills:
+    - id: 52019
+      percentage: 10
+      name: Web
+  - id: 19840
+    name: Basic CSS
+    guidelines: Has the student completed all exercises in the section "CSS Grid"?
+    rating: bool
+    kind: standard
+    position: 5
+    questions_skills:
+    - id: 52016
+      percentage: 10
+      name: Web
+  - id: 19841
+    name: What is CSS?
+    guidelines: Ask the student to explain what a CSS Grid is. Can they do it? Use google
+      to check their answer if needed.
+    rating: bool
+    kind: standard
+    position: 6
+    questions_skills:
+    - id: 52017
+      percentage: 10
+      name: Web
+- id: 5841
+  scalable_id: 1889
+  name: Responsive Image Gallery
+  description: 'The final project involved making a responsive image gallery similar to Pinterest. Ask the student to pull up their site on Github so you can see the code and Github Pages so you can see the site for this next section.'
+  position: 2
+  questions:
+  - id: 19844
+    name: Necessary Files
+    guidelines: Does the GitHub repository contain a index.html and style.css file?
+    rating: bool
+    kind: standard
+    position: 1
+    questions_skills:
+    - id: 52020
+      percentage: 10
+      name: Web
+  - id: 19845
+    name: Moar Necessary Files
+    guidelines: Is the project pushed onto a Github repository named "H2S_responsive_gallery" with link to website in README.md?
+    rating: bool
+    kind: standard
+    position: 2
+    questions_skills:
+    - id: 52021
+      percentage: 10
+      name: Web
+  - id: 19846
+    name: New phone who dis?
+    guidelines: Does the page have a navbar with a logo on the left and first name on the right? Can they explain how they did it?
+    rating: bool
+    kind: standard
+    position: 3
+    questions_skills:
+    - id: 52022
+      percentage: 5
+      name: Web
+  - id: 19847
+    name: A picture is worth a thousand words
+    guidelines: Does the page have at least 20 images of the same width? Can they show you how the width is set?
+    rating: bool
+    kind: standard
+    position: 4
+    questions_skills:
+    - id: 52023
+      percentage: 5
+      name: Web
+  - id: 19848
+    name: Fixed in Place
+    guidelines: Is the navbar fixed? Can they show you how it's set to fixed?
+    rating: bool
+    kind: standard
+    position: 5
+    questions_skills:
+    - id: 52024
+      percentage: 5
+      name: Web
+  - id: 19849
+    name: This is Mission Control, please respond
+    guidelines: Is the website responsive? Does the number of image columns decrease as the screen shrinks in size? Can the student explain how they made it responsive?
+    rating: bool
+    kind: standard
+    position: 6
+    questions_skills:
+    - id: 52025
+      percentage: 5
+      name: Web
+
+
