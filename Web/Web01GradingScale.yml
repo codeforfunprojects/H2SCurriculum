@@ -1,14 +1,5 @@
-# **************************************************************************** #
-#                                                                              #
-#               RESPONSIVE_WEB_DESIGN.en.yml for RESPONSIVE WEB DESIGN         #
-#               Created on : Tue Oct  15 18:10:13 2019                         #
-#               Made by : Dax Wann <xwang@student.42.us.org>                   #
-#               Edited by : Jem Cope <jem@42.us.org>                   #
-#                                                                              #
-# **************************************************************************** #
-
 ---
-name: Web 01 - Recipe - version 3
+name: Web Basics 01 - Recipe - version 5.00
 comment: ''
 introduction_md: ''
 disclaimer_md: ''
@@ -24,193 +15,192 @@ guidelines_md: "  To ensure this evaluation goes smoothly, please respect the fo
   acceptable or not, and grade\r\n    them accordingly. You will both learn the most
   by taking corrections seriously."
 evaluation_id: 1826
-is_primary: true
+is_primary: false
 correction_number: 1
 duration: 2
 manual_subscription: false
 is_external: false
 free: false
 sections:
-- id: 50674
+- id: 5840
   scalable_id: 1889
   name: Free Code Camp
   description: Did the student complete all of the exercises in these sections?
   position: 1
   questions:
-  - id: 1
+  - id: 19838
     name: Basic HTML and HTML5
     guidelines: Has the student completed all exercises in the section "Basic HTML"?
     rating: bool
     kind: standard
     position: 1
     questions_skills:
-    - id: 50674
-      percentage: 5
+    - id: 52014
+      percentage: 10
       name: Python
-  - id: 2
+  - id: 19839
     name: What is HTML?
-    guidelines: Ask the student to explain what HTML is. Can they do it? Use google to check their answer if needed.
+    guidelines: Ask the student to explain what HTML is. Can they do it? Use google
+      to check their answer if needed.
     rating: bool
     kind: standard
     position: 2
     questions_skills:
-    - id: 50675
+    - id: 52015
       percentage: 5
       name: Python
-  - id: 3
-    name: Basic CSS
-    guidelines: Has the student completed all exercises in the section "Basic CSS"?
+  - id: 19842
+    name: Applied Visual Design
+    guidelines: Has the student completed all exercises in the section "Applied Visual
+      Design"?
     rating: bool
     kind: standard
     position: 3
     questions_skills:
-    - id: 50676
-      percentage: 5
+    - id: 52018
+      percentage: 10
       name: Python
-  - id: 4
-    name: What is CSS?
-    guidelines: Ask the student to explain what CSS is. Can they do it? Use google to check their answer if needed.
+  - id: 19843
+    name: Favorite Applied Visual Design
+    guidelines: Ask the student what their favorite part of this section was. Did
+      they tell you?
     rating: bool
     kind: standard
     position: 4
     questions_skills:
-    - id: 50676
+    - id: 52019
       percentage: 5
       name: Python
-  - id: 5
-    name: Applied Visual Design
-    guidelines: Has the student completed all exercises in the section "Applied Visual Design"?
+  - id: 19840
+    name: Basic CSS
+    guidelines: Has the student completed all exercises in the section "Basic CSS"?
     rating: bool
     kind: standard
     position: 5
     questions_skills:
-    - id: 50676
-      percentage: 5
+    - id: 52016
+      percentage: 10
       name: Python
-  - id: 6
-    name: Applied Visual Design
-    guidelines: Ask the student what their favorite part of this section was. Did they tell you?
+  - id: 19841
+    name: What is CSS?
+    guidelines: Ask the student to explain what CSS is. Can they do it? Use google
+      to check their answer if needed.
     rating: bool
     kind: standard
     position: 6
     questions_skills:
-    - id: 50676
+    - id: 52017
       percentage: 5
       name: Python
-- id: 50675
+- id: 5841
   scalable_id: 1889
-  name: Recipe Page
-  description: 'The final project involved making a recipe page for the student's favorite food. Ask the student to pull up their site on Github so you can see the code and Github Pages so you can see the site for this next section.'
+  name: Recipe Page Website
+  description: 'The final project involved making a recipe page for the student''s favorite food. Ask the student to pull up their site on Github so you can see the code and Github Pages so you can see the site for this next section.'
   position: 2
   questions:
-  - id: 7
+  - id: 19844
     name: Is it on the internet?
     guidelines: Did the student sucessfully get their code into a Github repository?
     rating: bool
     kind: standard
-    position: 7
+    position: 1
     questions_skills:
-    - id: 50677
+    - id: 52020
       percentage: 10
       name: Python
-  - id: 8
-    name:  Necessary Files
+  - id: 19845
+    name: Necessary Files
     guidelines: Does the project include index.html and style.css?
-      the "%" (modulo) operator?
     rating: bool
     kind: standard
-    position: 8
+    position: 2
     questions_skills:
-    - id: 50678
-      percentage: 10
+    - id: 52021
+      percentage: 5
       name: Python
-  - id: 9
+  - id: 19846
     name: Github Pages
     guidelines: Does the Github repository have a README.md that includes a hyperlink to the Github Pages website?
     rating: bool
     kind: standard
+    position: 3
+    questions_skills:
+    - id: 52022
+      percentage: 5
+      name: Python
+  - id: 19847
+    name: Explanation
+    guidelines: Ask the person to explain how they got the site onto Github Pages. Can they do it?
+    rating: bool
+    kind: standard
+    position: 4
+    questions_skills:
+    - id: 52023
+      percentage: 5
+      name: Python
+  - id: 19848
+    name: Ahead of the Game
+    guidelines: Does the recipe page have a header?
+    rating: bool
+    kind: standard
+    position: 5
+    questions_skills:
+    - id: 52024
+      percentage: 5
+      name: Python
+  - id: 19849
+    name: Picture This
+    guidelines: Does the recipe page have at least one image of the food?
+    rating: bool
+    kind: standard
+    position: 6
+    questions_skills:
+    - id: 52025
+      percentage: 5
+      name: Python
+  - id: 19850
+    name: Unordered List
+    guidelines: Does the recipe page have an unordered list of ingredients?
+    rating: bool
+    kind: standard
+    position: 7
+    questions_skills:
+    - id: 52026
+      percentage: 5
+      name: Python
+  - id: 19851
+    name: Ordered List
+    guidelines: Does the recipe page have an ordered list of instructions?
+    rating: bool
+    kind: standard
+    position: 8
+    questions_skills:
+    - id: 52027
+      percentage: 5
+      name: Python
+  - id: 19852
+    name: Cite your Sources
+    guidelines: Does the recipe page have a link to the website it got the information from?
+    rating: bool
+    kind: standard
     position: 9
     questions_skills:
-    - id: 50679
-      percentage: 10
+    - id: 52028
+      percentage: 5
       name: Python
-  - id: 10
-    name: Explanation
-    guidelines: Ask the person to explain how they got the site onto Github Pages.
+  - id: 19853
+    name: Standing on your own two feet
+    guidelines: Does the recipe page have a footer?
     rating: bool
     kind: standard
     position: 10
     questions_skills:
-    - id: 50680
+    - id: 52029
       percentage: 5
       name: Python
-  - id: 11
-    name: Explain
-    guidelines: Does the recipe page have a header?
-    rating: bool
-    kind: standard
-    position: 11
-    questions_skills:
-    - id: 50681
-      percentage: 5
-      name: Python
-  - id: 12
-    name: Images
-    guidelines: Does the recipe page have at least one image of the food?
-      a new value to it?
-    rating: bool
-    kind: standard
-    position: 12
-    questions_skills:
-    - id: 50682
-      percentage: 5
-      name: Python
-  - id: 13
-    name: Explain
-    guidelines: Does the recipe page have at least one image of the food?
-    rating: bool
-    kind: standard
-    position: 13
-    questions_skills:
-    - id: 50683
-      percentage: 5
-      name: Python
-  - id: 14
-    name: Explain
-    guidelines: Does the recipe page have an unordered list of ingredients?
-    rating: bool
-    kind: standard
-    position: 14
-    questions_skills:
-  - id: 50684
-      percentage: 5
-      name: Python
-  - id: 15
-    name: Explain
-    guidelines: Does the recipe page have an ordered list of instructions?
-    rating: bool
-    kind: standard
-    position: 15
-    questions_skills:
-    - id: 50685
-      percentage: 5
-      name: Python
-  - id: 16
-    name: Explain
-    guidelines: Does the recipe page have a link to the website it got the information from?
-    rating: bool
-    kind: standard
-    position: 16
-    questions_skills:
-    - id: 50686
-      percentage: 5
-      name: Python
-  - id: 17
-    name: Explain
-    guidelines: Does the recipe page have a footer?
-    kind: standard
-    position: 17
-    questions_skills:
-    - id: 50687
-      percentage: 5
-      name: Python
+
+
+
+
+
+
