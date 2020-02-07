@@ -1,0 +1,144 @@
+---
+name: IBM's Machine Learning 00 - version 1.2-copy
+comment: ''
+introduction_md: ''
+disclaimer_md: ''
+guidelines_md: "  To ensure this evaluation goes smoothly, please respect the following
+  set\r\n  of rules :\r\n\r\n  - Please remain courteous, polite, respectful and constructive
+  at all \r\n    times during this exchange. \r\n\r\n  - Should you notice any malfunctions
+  within the submitted project, \r\n    take a moment to discuss them and why it functioned
+  that way. This will give you a better understanding of the topic.\r\n\r\n  - Keep
+  in mind that some subjects can be interpreted differently.\r\n    If you come across
+  a situation where the student you're grading \r\n    has interpreted the subject
+  differently than you, try and judge\r\n    fairly whether their interpretation is
+  acceptable or not, and grade\r\n    them accordingly. You will both learn the most
+  by taking corrections seriously."
+evaluation_id: 2014
+is_primary: true
+correction_number: 1
+duration: 2
+manual_subscription: false
+is_external: false
+free: false
+sections:
+- id: 6820
+  scalable_id: 2200
+  name: Coursera
+  description: Did the student complete all of the exercises in these sections?
+  position: 1
+  questions:
+  - id: 22654
+    name: Week 1
+    guidelines: Has the student watched all of Week 1's videos?
+    rating: bool
+    kind: standard
+    position: 2
+    questions_skills:
+    - id: 60147
+      percentage: 10
+      name: Python
+  - id: 22655
+    name: Week 2
+    guidelines: Has the student watched all of Week 2's videos and completed all labs?
+    rating: bool
+    kind: standard
+    position: 3
+    questions_skills:
+    - id: 60148
+      percentage: 10
+      name: Python
+- id: 6821
+  scalable_id: 2200
+  name: Showcase Project
+  description: Does the Showcase Project possess the following capabilities?
+  position: 2
+  questions:
+  - id: 22656
+    name: Data Read
+    guidelines: Does the program display a read of the filtered dataset?
+    rating: bool
+    kind: standard
+    position: 1
+    questions_skills:
+    - id: 60149
+      percentage: 10
+      name: Python
+  - id: 22657
+    name: R-2 Score
+    guidelines: Does the program display the R-2 score of the Linear Regression model?
+    rating: bool
+    kind: standard
+    position: 2
+    questions_skills:
+    - id: 60150
+      percentage: 10
+      name: Python
+  - id: 22658
+    name: Scatter Plot
+    guidelines: Does the program display a graph of the linear relation of Engine
+      Size and Fuel Consumption (Highway)?
+    rating: bool
+    kind: standard
+    position: 7
+    questions_skills:
+    - id: 60151
+      percentage: 10
+      name: Python
+  - id: 22659
+    name: Line of Best Fit
+    guidelines: Does the graph display a line of best fit from the coefficients of
+      the model?
+    rating: bool
+    kind: standard
+    position: 5
+    questions_skills:
+    - id: 60152
+      percentage: 10
+      name: Python
+- id: 6822
+  scalable_id: 2200
+  name: Readme Creation
+  description: Did the student document the following things in their Readme?
+  position: 3
+  questions:
+  - id: 22660
+    name: Summary
+    guidelines: Does the student provide a summary about the project?
+    rating: bool
+    kind: standard
+    position: 2
+    questions_skills:
+    - id: 60153
+      percentage: 10
+      name: Python
+  - id: 22661
+    name: Machine Learning Definition
+    guidelines: Does the student explain what Machine Learning is in their own words?
+    rating: bool
+    kind: standard
+    position: 4
+    questions_skills:
+    - id: 60154
+      percentage: 10
+      name: Python
+  - id: 22662
+    name: Challenges
+    guidelines: Does the student express what challenges they faced in the creation
+      of the project?
+    rating: bool
+    kind: standard
+    position: 3
+    questions_skills:
+    - id: 60155
+      percentage: 10
+      name: Python
+  - id: 22663
+    name: What They Learned
+    guidelines: Does the student express what they learned while creating the project?
+    rating: bool
+    kind: standard
+    position: 1
+    questions_skills:
+    - id: 60156
+      percentage: 10
+      name: Python

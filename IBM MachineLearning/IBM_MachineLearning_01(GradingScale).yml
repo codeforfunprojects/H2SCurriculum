@@ -1,0 +1,100 @@
+---
+name: IBM's Machine Learning 01 - version 1.0-copy
+comment: ''
+introduction_md: ''
+disclaimer_md: ''
+guidelines_md: "  To ensure this evaluation goes smoothly, please respect the following
+  set\r\n  of rules :\r\n\r\n  - Please remain courteous, polite, respectful and constructive
+  at all \r\n    times during this exchange. \r\n\r\n  - Should you notice any malfunctions
+  within the submitted project, \r\n    take a moment to discuss them and why it functioned
+  that way. This will give you a better understanding of the topic.\r\n\r\n  - Keep
+  in mind that some subjects can be interpreted differently.\r\n    If you come across
+  a situation where the student you're grading \r\n    has interpreted the subject
+  differently than you, try and judge\r\n    fairly whether their interpretation is
+  acceptable or not, and grade\r\n    them accordingly. You will both learn the most
+  by taking corrections seriously."
+evaluation_id: 2015
+is_primary: true
+correction_number: 1
+duration: 2
+manual_subscription: false
+is_external: false
+free: false
+sections:
+- id: 6831
+  scalable_id: 2205
+  name: Coursera
+  description: Did the student complete all of the exercises in these sections?
+  position: 1
+  questions:
+  - id: 22715
+    name: K Nearest Neighbors
+    guidelines: Has the student watched all of KNN videos and completed all labs in
+      Week 3?
+    rating: bool
+    kind: standard
+    position: 2
+    questions_skills:
+    - id: 60208
+      percentage: 25
+      name: Python
+- id: 6832
+  scalable_id: 2205
+  name: Showcase Project
+  description: Does the Showcase Project possess the following capabilities?
+  position: 2
+  questions:
+  - id: 22716
+    name: Data Read
+    guidelines: Does the program display a read of the dataset?
+    rating: bool
+    kind: standard
+    position: 1
+    questions_skills:
+    - id: 60209
+      percentage: 15
+      name: Python
+  - id: 22717
+    name: Training Accuracy
+    guidelines: Does the program display the Training accuracy and Test accuracy for
+      the model?
+    rating: bool
+    kind: standard
+    position: 2
+    questions_skills:
+    - id: 60210
+      percentage: 15
+      name: Python
+  - id: 22718
+    name: Scatter Plot
+    guidelines: Does the program display a graph of the linear relation of Petal Width
+      and Petal Length?
+    rating: bool
+    kind: standard
+    position: 8
+    questions_skills:
+    - id: 60211
+      percentage: 15
+      name: Python
+  - id: 22719
+    name: Class coloring
+    guidelines: Does the graph display each node a different color relative of its
+      class?
+    rating: bool
+    kind: standard
+    position: 6
+    questions_skills:
+    - id: 60212
+      percentage: 15
+      name: Python
+  - id: 22720
+    name: User Input
+    guidelines: Does the program allow for command line input for the 4 values of
+      an Iris to predict a single observation?
+    rating: bool
+    kind: standard
+    position: 4
+    questions_skills:
+    - id: 60213
+      percentage: 15
+      name: Python
